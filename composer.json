@@ -1,5 +1,5 @@
 {
-    "name": "rezahmady/smsir",
+    "name": "aliinateghiii/smsir",
     "description": "",
     "keywords": [
         "laravel",
@@ -11,7 +11,7 @@
         "sms.ir",
         "smsir"
     ],
-    "homepage": "https://github.com/rezahmady/smsir",
+    "homepage": "https://github.com/AliiNateghiii/smsir",
     "license": "MIT",
     "authors": [{
         "name": "Reza Ahmadi Sabzevar",
@@ -20,7 +20,7 @@
         "role": "Developer"
     }],
     "require": {
-        "php": "~7.3",
+        "php": "~7.3|~8.0",
         "ext-json": "*",
         "illuminate/support": "~6.0 || ~7.0 || ~8.0",
         "illuminate/notifications": "~6.0 || ~7.0 || ~8.0",
